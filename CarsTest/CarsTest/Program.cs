@@ -12,7 +12,7 @@ namespace CarsTest
         {
             //Создаем двигатели
             Engine engineFirst = new EngineUAZ("Двигатель №1",0);
-            Engine engineSecond = new EngineUAZ("Двигатель №2",-1);
+            Engine engineSecond = new EngineYamaxa("Двигатель №2",-1);
             Engine engineThird = new EngineUAZ("Двигатель №3",50);
             //Создаем машины
             Car carFirst = new Car("Nissan", engineFirst);
