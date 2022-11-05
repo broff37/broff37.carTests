@@ -1,0 +1,7 @@
+C:\Users\BROFF\Downloads\CarsTest\CarsTest\CarsTest\bin\Debug\CarsTest.exe.config
+C:\Users\BROFF\Downloads\CarsTest\CarsTest\CarsTest\bin\Debug\CarsTest.exe
+C:\Users\BROFF\Downloads\CarsTest\CarsTest\CarsTest\bin\Debug\CarsTest.pdb
+C:\Users\BROFF\Downloads\CarsTest\CarsTest\CarsTest\obj\Debug\CarsTest.csproj.AssemblyReference.cache
+C:\Users\BROFF\Downloads\CarsTest\CarsTest\CarsTest\obj\Debug\CarsTest.csproj.CoreCompileInputs.cache
+C:\Users\BROFF\Downloads\CarsTest\CarsTest\CarsTest\obj\Debug\CarsTest.exe
+C:\Users\BROFF\Downloads\CarsTest\CarsTest\CarsTest\obj\Debug\CarsTest.pdb
